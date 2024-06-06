@@ -2,10 +2,15 @@
 title: "IVANEER WRITEUPS CTF"
 ---
 Discord: ivaneer
+--------
 #✏️ My Writeups:
+--------
 [[Blue]]
+--------
 [[Bizness]]
+--------
 [[bolt]]
+--------
 [[Brute Force Heroes]]
 [[bruteit]]
 [[Capture]]
