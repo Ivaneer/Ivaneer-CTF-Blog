@@ -1,8 +1,8 @@
 ---
 title: "IVANEER WRITEUPS CTF"
-Discord: ivaneer
 ---
-✏️ My Writeups:
+Discord: ivaneer
+✏️ My Writeups:<br>
 [[Blue]]
 [[Bizness]]
 [[bolt]]
