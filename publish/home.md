@@ -2,7 +2,7 @@
 title: "IVANEER WRITEUPS CTF"
 ---
 Discord: ivaneer
-✏️ My Writeups:<br>
+#✏️ My Writeups:
 [[Blue]]
 [[Bizness]]
 [[bolt]]
