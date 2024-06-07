@@ -1,3 +1,4 @@
+<html> <head> <meta http-equiv = "refresh" content = "5; url ="https://ivaneer.vercel.app/ "</head></html>
 ---
 title: "IVANEER WRITEUPS CTF"
 ---
