@@ -75,7 +75,7 @@ Discord: ivaneer
 --------
 ## [[Europe]]
 --------
-## [[Cyber/eJPT/‍💻 S4vitar/eJPT/GoodGames|GoodGames]]
+## [[GoodGames]]
 --------
 ## [[Hozizontall]]
 --------
@@ -83,7 +83,7 @@ Discord: ivaneer
 --------
 ## [[Laboratory]]
 --------
-## [[Cyber/Road OSCP/🎣Easy/Return|Return]]
+## [[Return]]
 --------
 ## [[Shoppy]]
 --------
